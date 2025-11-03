@@ -12,7 +12,7 @@ Ele também implementa uma **detecção simples de anomalias** (valores fora do 
 - 💻 **Raspberry Pi Pico (simulado no Wokwi)**
 - 🌐 **ThingSpeak (Dashboard IoT)**
 - 📶 **Wi-Fi (rede Wokwi-GUEST)**
-- 🌡️ **Sensor DHT22 (real ou simulado)**
+- 🌡️ **Sensor DHT22 (simulado)**
 
 ---
 
