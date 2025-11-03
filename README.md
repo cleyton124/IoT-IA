@@ -22,10 +22,10 @@ Ele também implementa uma **detecção simples de anomalias** (valores fora do 
 ## ⚙️ Funcionalidades
 
 ✅ Conexão automática com Wi-Fi (Wokwi-GUEST)  
-✅ Leitura de temperatura e umidade (sensor DHT22 ou simulado)  
+✅ Leitura de temperatura e umidade (sensor DHT22)  
 ✅ Envio dos dados ao **ThingSpeak** via API HTTP  
 ✅ Detecção de **anomalias** com base em estatística (z-score > 3)  
-✅ Indicação de **status** conforme condições ambientais  
+✅ Indicação de **status**   
 ✅ Impressão dos resultados no console  
 
 ---
